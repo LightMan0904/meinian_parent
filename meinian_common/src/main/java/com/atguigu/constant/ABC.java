@@ -7,5 +7,6 @@ package com.atguigu.constant;
 public class ABC {
     public static void main(String[] args) {
         System.out.println("BBBBBB dev");
+        System.out.println("add again");
     }
 }
